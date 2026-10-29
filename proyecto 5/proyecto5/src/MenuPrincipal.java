@@ -7,10 +7,10 @@ public class MenuPrincipal {
             System.out.println("\n================================");
             System.out.println("       MENU PRINCIPAL");
             System.out.println("================================");
-            System.out.println("1. Invertir codigo numerico");
-            System.out.println("2. Mostrar tabla del 7");
-            System.out.println("3. Registrar lista de llegada");
-            System.out.println("4. Calcular factorial");
+            System.out.println("1. Problema 1: imprimir despues de recursar");
+            System.out.println("2. Problema 2: imprimir al retornar");
+            System.out.println("3. Problema 3: imprimir antes de recursar");
+            System.out.println("4. Problema 4: sumar arreglo recursivamente");
             System.out.println("0. Salir");
             System.out.println("================================");
             System.out.print("Seleccione una opcion: ");
